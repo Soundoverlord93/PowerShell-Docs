@@ -13,7 +13,7 @@ title: Get-Error
 
 ## SYNOPSIS
 
-Gets and displays the most recent error messages from the current session.
+Gets and displays the most recent error messages from the current session(Powershell 7 version only).
 
 ## SYNTAX
 
